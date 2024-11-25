@@ -35,4 +35,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Misha/GameOver.unity
     guid: 32c8982a2d2b07d40868dd888887cc43
+  - enabled: 1
+    path: Assets/Brandon/Brandon.unity
+    guid: f926cccb4d00e1e4a9f7565199a54683
+  - enabled: 1
+    path: Assets/Brandon/RedPath.unity
+    guid: 3521df527946f5d4b97d8b55ff8fdbf5
+  - enabled: 1
+    path: Assets/Brandon/BluePath.unity
+    guid: e61247fc12fe2424fa1acfc9f31edad1
   m_configObjects: {}
